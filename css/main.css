@@ -299,3 +299,15 @@ body {
 }
 
 /* --------------- End of Cart ---------------- */
+/* start footer */
+.footer {
+	background-color: #334854;
+	color: #eee;
+	padding: 2px;
+	text-align: center;
+	font-size: 14px;
+}
+.footer a {
+	color: var(--main-color);
+}
+/* end footer */
